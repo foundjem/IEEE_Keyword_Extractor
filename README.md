@@ -4,7 +4,7 @@ This is a simple Python script for scraping various types of keywords from the [
 
 ```
 Usage:
-    ./IEEEKeywordExtractor.py <SOURCE_JSON> <TARGET_JSON>
+    python IEEEKeywordExtractor.py <SOURCE_JSON> <TARGET_JSON>
 ```
 
 <SOURCE_JSON> is a JSON file extracted from [DBLP](http://dblp.uni-trier.de). This is only used to generate a Python list of article names to extract keywords from. Changing the script to e.g., hardcode the list or use a TXT file should be trivial. If you need such a feature and can't build it yourself, drop me a line.
