@@ -1,0 +1,673 @@
+{"articles":[{
+    "article": "A Scalable Approach for Context Based Complex Service Discovery", 
+    "citations": 0
+},{
+    "article": "Rule-Based Web Service Validation", 
+    "citations": 1
+},{
+    "article": "Mash Droid: An Approach to Mobile-Oriented Dynamic Services Discovery and Composition by In-App Search", 
+    "citations": 0
+},{
+    "article": "QoS-Aware Web Service Recommendation Using Collaborative Filtering with PGraph", 
+    "citations": 0
+},{
+    "article": "A Maturity Model for Semantic RESTful Web APIs", 
+    "citations": 1
+},{
+    "article": "CAPred: A Prediction Model for Timely QoS", 
+    "citations": 0
+},{
+    "article": "Conversion Infrastructure for Maintaining High Availability of Web Services Using Multiple Service Providers", 
+    "citations": 0
+},{
+    "article": "A Utility-Aware Runtime Conflict Resolver for Composite Web Services", 
+    "citations": 0
+},{
+    "article": "Adaptive and Dynamic Service Composition via Multi-agent Reinforcement Learning", 
+    "citations": 3
+},{
+    "article": "Enhanced Service Discovery via Shared Context in a Distributed Architecture", 
+    "citations": 0
+},{
+    "article": "Reflecting User Privacy Preferences in Context-Aware Web Services", 
+    "citations": 10
+},{
+    "article": "Exploring Cloud Service Brokering from an Interface Perspective", 
+    "citations": 0
+},{
+    "article": "Performance Functions for QoS Prediction in Web Service Composites", 
+    "citations": 0
+},{
+    "article": "A Context-Aware Trust-Oriented Influencers Finding in Online Social Networks", 
+    "citations": 0
+},{
+    "article": "A Hybrid Fuzzy Framework for Cloud Service Selection", 
+    "citations": 2
+},{
+    "article": "Learning to Reuse User Inputs in Service Composition", 
+    "citations": 1
+},{
+    "article": "Leveraging Formal Concept Analysis with Topic Correlation for Service Clustering and Discovery", 
+    "citations": 5
+},{
+    "article": "A Resource-Oriented Services Platform for Managing Software Supply Chains and Its Experience", 
+    "citations": 0
+},{
+    "article": "Policy Conflict Detection in Composite Web Services with RBAC", 
+    "citations": 0
+},{
+    "article": "Integrator: An Architecture for an Integrated Cloud/On-Premise Data-Service", 
+    "citations": 1
+},{
+    "article": "Quality Failure Prediction for the Self-Healing of Service-Oriented System of Systems", 
+    "citations": 0
+},{
+    "article": "Secure Web Service Composition with Untrusted Broker", 
+    "citations": 1
+},{
+    "article": "Categorial Link: REST Service Composition Based on Category Theory", 
+    "citations": 2
+},{
+    "article": "QoS Prediction of Web Services Based on Two-Phase K-Means Clustering", 
+    "citations": 3
+},{
+    "article": "Component-Based Information Service Platform for Heating Industry", 
+    "citations": 0
+},{
+    "article": "A Learning Approach to the Prediction of Reliability Ranking for Web Services", 
+    "citations": 0
+},{
+    "article": "Nomads - Enabling Distributed Analytical Service Environments for the Smart City Domain", 
+    "citations": 2
+},{
+    "article": "A Risk-Evaluation Assisted System for Service Selection", 
+    "citations": 0
+},{
+    "article": "A Time-Aware and Data Sparsity Tolerant Approach for Web Service Recommendation", 
+    "citations": 5
+},{
+    "article": "Runtime Enforcement of Data-centric Properties for Concurrent Service-Based Applications", 
+    "citations": 0
+},{
+    "article": "Quality of Experience: What End-Users Say about Web Services? ", 
+    "citations": 2
+},{
+    "article": "A QoS and Trust Prediction Framework for Context-Aware Composed Distributed Systems", 
+    "citations": 0
+},{
+    "article": "Modelling and Predicting the Data Availability in Decentralized Online Social Networks", 
+    "citations": 1
+},{
+    "article": "Web Service Composition Based on Reinforcement Learning", 
+    "citations": 2
+},{
+    "article": "Time-Aware API Popularity Prediction via Heterogeneous Features", 
+    "citations": 0
+},{
+    "article": "Variable Granularity Index on Massive Service Processes", 
+    "citations": 6
+},{
+    "article": "Location Analytics as a Service: Providing Insights for Heterogeneous Spatiotemporal Data", 
+    "citations": 0
+},{
+    "article": "Optimal and Effective Web Service Composition with Trust and User Preference", 
+    "citations": 1
+},{
+    "article": "TSAaaS: Time Series Analytics as a Service on IoT", 
+    "citations": 4
+},{
+    "article": "Enabling the Extraction and Insertion of Reusable Choreography Fragments", 
+    "citations": 1
+},{
+    "article": "COSS: Content-Based Subscription as an IoT Service", 
+    "citations": 0
+},{
+    "article": "Opacity Preserving Abstraction for Web Services and Their Composition Using SOGs", 
+    "citations": 0
+},{
+    "article": "ITWS: An Extensible Tool for Interoperability Testing of Web Services", 
+    "citations": 0
+},{
+    "article": "Ontology-Based Workflow Generation for Intelligent Big Data Analytics", 
+    "citations": 1
+},{
+    "article": "Verifying Multiagent-Based Web Service Compositions Regulated by Commitment Protocols", 
+    "citations": 3
+},{
+    "article": "SDN Northbound REST API with Efficient Caches", 
+    "citations": 3
+},{
+    "article": "A Resilient Framework for Fault Handling in Web Service Oriented Systems", 
+    "citations": 2
+},{
+    "article": "WS-HFS: A Heterogeneous Feature Selection Framework for Web Services Mining", 
+    "citations": 1
+},{
+    "article": "Agent-Based Green Web Service Selection and Dynamic Speed Scaling", 
+    "citations": 8
+},{
+    "article": "Manifold-Learning Based API Recommendation for Mashup Creation", 
+    "citations": 0
+},{
+    "article": "Towards Flexibility in Transactional Service Compositions", 
+    "citations": 3
+},{
+    "article": "Parameter Tuning for ABC-Based Service Composition with End-to-End QoS Constraints", 
+    "citations": 2
+},{
+    "article": "Crowd Trust: A Context-Aware Trust Model for Worker Selection in Crowdsourcing Environments", 
+    "citations": 1
+},{
+    "article": "Personalized Decision Making for QoS-Based Service Selection", 
+    "citations": 3
+},{
+    "article": "A Collaborative Filtering Method for Personalized Preference-Based Service Recommendation", 
+    "citations": 0
+},{
+    "article": "Improved Genetic Algorithm Based Approach for QoS Aware Web Service Composition", 
+    "citations": 5
+},{
+    "article": "Landslide Detection Service Based on Composition of Physical and Social Information Services", 
+    "citations": 5
+},{
+    "article": "Service Evolution Patterns", 
+    "citations": 3
+},{
+    "article": "Pruning Based Service Selection Approach Under QoS and Temporal Constraints", 
+    "citations": 7
+},{
+    "article": "QoS Uncertainty Filtering for Fast and Reliable Web Service Selection", 
+    "citations": 1
+},{
+    "article": "An Agent-Based Approach for Invoking Service in Environments with Limited Network Bandwidth", 
+    "citations": 0
+},{
+    "article": "Service Mining from Legacy Database Applications", 
+    "citations": 0
+},{
+    "article": "Extracting, Ranking, and Evaluating Quality Features of Web Services through User Review Sentiment Analysis", 
+    "citations": 1
+},{
+    "article": "A Hybrid Complex Event Service Based on IoT Resource Models", 
+    "citations": 0
+},{
+    "article": "DAG: A Model for Privacy Preserving Computation", 
+    "citations": 0
+},{
+    "article": "Designing Large Scale REST APIs Based on REST Chart", 
+    "citations": 1
+},{
+    "article": "A Privacy-Preserving QoS Prediction Framework for Web Service Recommendation", 
+    "citations": 4
+},{
+    "article": "Web Service Recommendation Based on Watchlist via Temporal and Tag Preference Fusion", 
+    "citations": 2
+},{
+    "article": "Time-Aware Collaborative Filtering for QoS-Based Service Recommendation", 
+    "citations": 3
+},{
+    "article": "A Model Checking Approach to Analyzing Timed Compatibility in Mediation-Aided Composition of Web Services", 
+    "citations": 0
+},{
+    "article": "Time-Aware Service Recommendation for Mashup Creation in an Evolving Service Ecosystem", 
+    "citations": 6
+},{
+    "article": "Using WADL Specifications to Develop and Maintain REST Client Applications", 
+    "citations": 2
+},{
+    "article": "A Framework for Transmission Cost Aware Service Selection", 
+    "citations": 0
+},{
+    "article": "Hoop: Offloading HTTP(S) POSTs from User Devices onto Residential Gateways", 
+    "citations": 0
+},{
+    "article": "Modeling Accountable Cloud Services", 
+    "citations": 1
+},{
+    "article": "Effectiveness Assessment of Solid-State Drive Used in Big Data Services", 
+    "citations": 3
+},{
+    "article": "Regression-Based Bootstrapping of Web Service Reputation Measurement", 
+    "citations": 0
+},{
+    "article": "Netcoin: A Traceable P2P Electronic Cash System", 
+    "citations": 0
+},{
+    "article": "Discovering Web Services to Improve Requirements Decomposition", 
+    "citations": 0
+},{
+    "article": "A Social-Aware Service Recommendation Approach for Mashup Creation", 
+    "citations": 12
+},{
+    "article": "goDiscovery: Web Service Discovery Made Efficient", 
+    "citations": 0
+},{
+    "article": "A Web Service Selection Framework Based on User&apos;s Context and QoS", 
+    "citations": 3
+},{
+    "article": "Location-Based Web Service QoS Prediction via Preference Propagation for Improving Cold Start Problem", 
+    "citations": 0
+},{
+    "article": "Online Role Mining without Over-Fitting for Service Recommendation", 
+    "citations": 4
+},{
+    "article": "An Energy-Efficient Inter-organizational Wireless Sensor Data Collection Framework", 
+    "citations": 1
+},{
+    "article": "Intelligent Push Notification for Converged Mobile Computing and Internet of Things", 
+    "citations": 0
+},{
+    "article": "Hierarchical Aggregation of Consumer Ratings for Service Ecosystem", 
+    "citations": 2
+},{
+    "article": "Fast Selection of Web Services with QoS Using a Distributed Parallel Semantic Approach", 
+    "citations": 3
+},{
+    "article": "Formal Behavioral Modeling for Verifying SCA Composition with Event-B", 
+    "citations": 0
+},{
+    "article": "A Novel Web Service Directory Framework for Mobile Environments", 
+    "citations": 4
+},{
+    "article": "RESTful Web Service Mining: Simple Algorithm Supporting Resource-Oriented Systems", 
+    "citations": 2
+},{
+    "article": "Delay-Aware Cost Optimization for Dynamic Resource Provisioning in Hybrid Clouds", 
+    "citations": 2
+},{
+    "article": "Dynamic Web Service Composition with QoS Clustering", 
+    "citations": 3
+},{
+    "article": "A Smart Physical World Based on Service Technologies, Big Data, and Game-Based Crowd Sourcing", 
+    "citations": 0
+},{
+    "article": "Ranking Web Services with Limited and Noisy Information", 
+    "citations": 1
+},{
+    "article": "Heuristic Based Time-Aware Service Selection Approach", 
+    "citations": 0
+},{
+    "article": "A Scalable and Approximate Mechanism for Web Service Composition", 
+    "citations": 0
+},{
+    "article": "Time-Aware Web Service Recommendations Using Implicit Feedback", 
+    "citations": 4
+},{
+    "article": "Measuring Credit of Web Service", 
+    "citations": 2
+},{
+    "article": "Service Reconfiguration Architecture Based on Probabilistic Modeling Checking", 
+    "citations": 1
+},{
+    "article": "Trustworthy Service Composition in Service-Oriented Mobile Social Networks", 
+    "citations": 1
+},{
+    "article": "Modeling Temporal Effectiveness for Context-Aware Web Services Recommendation", 
+    "citations": 0
+},{
+    "article": "Canonical Computational Models Based on Formal Concept Analysis for Social Network Analysis and Representation", 
+    "citations": 1
+},{
+    "article": "Utilizing Web Services Networks for Web Service Innovation", 
+    "citations": 2
+},{
+    "article": "SPL-TQSSS: A Software Product Line Approach for Stateful Service Selection", 
+    "citations": 0
+},{
+    "article": "A Novel QoS Monitoring Approach Sensitive to Environmental Factors", 
+    "citations": 1
+},{
+    "article": "Is XML-Based Test Case Prioritization for Validating WS-BPEL Evolution Effective in Both Average and Adverse Scenarios? ", 
+    "citations": 3
+},{
+    "article": "An Efficient Resource Allocation Approach Based on a Genetic Algorithm for Composite Services in IoT Environments", 
+    "citations": 0
+},{
+    "article": "A Framework for Web Service Usage Profiles Discovery", 
+    "citations": 3
+},{
+    "article": "Generating Executable Workflows from Solution Plans", 
+    "citations": 0
+},{
+    "article": "An Integrated-Model QoS-Based Graph for Web Service Recommendation", 
+    "citations": 0
+},{
+    "article": "User Familiar Degree Aware Recommender System", 
+    "citations": 0
+},{
+    "article": "Location-Based Hierarchical Matrix Factorization for Web Service Recommendation", 
+    "citations": 11
+},{
+    "article": "A Context-Based Autonomous Construction Approach for Procedural Mashups", 
+    "citations": 1
+},{
+    "article": "Mapping Elements with the Hungarian Algorithm: An Efficient Method for Querying Business Process Models", 
+    "citations": 1
+},{
+    "article": "A Context-Aware Intentional Service Prediction Mechanism in PIS", 
+    "citations": 0
+},{
+    "article": "Measuring the Potential for Victimization in Malicious Content", 
+    "citations": 0
+},{
+    "article": "Incorporating Invocation Time in Predicting Web Service QoS via Triadic Factorization", 
+    "citations": 4
+},{
+    "article": "A Graph-Based Approach to Assisting Creation of Mobile Web Applications", 
+    "citations": 0
+},{
+    "article": "Low-Latency Service Data Aggregation Using Policy Obligations", 
+    "citations": 3
+},{
+    "article": "Developing a Meta-model to Support End-User Service Composition", 
+    "citations": 0
+},{
+    "article": "Incorporating User, Topic, and Service Related Latent Factors into Web Service Recommendation", 
+    "citations": 1
+},{
+    "article": "Climate Analytics Workflow Recommendation as a Service - Provenance-Driven Automatic Workflow Mashup", 
+    "citations": 1
+},{
+    "article": "User-QoS-Based Web Service Clustering for QoS Prediction", 
+    "citations": 0
+},{
+    "article": "Self-Adaptive Volunteered Services Composition through Stimulus- and Time-Awareness", 
+    "citations": 0
+},{
+    "article": "Combining Global and Local Trust for Service Recommendation", 
+    "citations": 4
+},{
+    "article": "Discovering Diversity Corrections for Incompatible Web Services", 
+    "citations": 0
+},{
+    "article": "Annotating Web Service Sections with Combined Classification", 
+    "citations": 2
+},{
+    "article": "Recommending Web Services via Combining Collaborative Filtering with Content-Based Features", 
+    "citations": 26
+},{
+    "article": "Services Adaptation Based on Domain Ontology and Feature Configuration", 
+    "citations": 0
+},{
+    "article": "A Collaborative Approach to Predicting Service Price for QoS-Aware Service Selection", 
+    "citations": 0
+},{
+    "article": "An Architecture for a Centralized Mediation in Dynamic Manufacturing Networks", 
+    "citations": 0
+},{
+    "article": "Characterizing RESTful Web Services Usage on Smartphones: A Tale of Native Apps and Web Apps", 
+    "citations": 0
+},{
+    "article": "Service Composition Pattern Generation for Cloud Migration: A Graph Similarity Analysis Approach", 
+    "citations": 2
+},{
+    "article": "Predicting QoS Values via Multi-dimensional QoS Data for Web Service Recommendations", 
+    "citations": 0
+},{
+    "article": "A Trust Evaluation Method for Cloud Service with Fluctuant QoS and Flexible SLA", 
+    "citations": 1
+},{
+    "article": "Service Recommendation Using Customer Similarity and Service Usage Pattern", 
+    "citations": 0
+},{
+    "article": "Automatic Mining Data-Aware Web Services Properties", 
+    "citations": 0
+},{
+    "article": "A PT-SOA Model for CPS/IoT Services", 
+    "citations": 1
+},{
+    "article": "Learning Sparse Functional Factors for Large-Scale Service Clustering", 
+    "citations": 1
+},{
+    "article": "Web Service Orchestration Topic Mining", 
+    "citations": 3
+},{
+    "article": "STaaS: Spatio Temporal Historian as a Service", 
+    "citations": 0
+},{
+    "article": "QoE Evaluation Based on QoS and QoBiz Parameters Applied to an OTT Service", 
+    "citations": 0
+},{
+    "article": "SCKY: A Method for Reusing Service Process Fragments", 
+    "citations": 4
+},{
+    "article": "Accelerated Sparse Learning on Tag Annotation for Web Service Discovery", 
+    "citations": 0
+},{
+    "article": "Paving the Way towards Semi-automatic Design-Time Business Process Model Obfuscation", 
+    "citations": 3
+},{
+    "article": "Supporting End-User Service Composition: A Systematic Review of Current Activities and Tools", 
+    "citations": 0
+},{
+    "article": "The WSDarwin Toolkit for Service-Client Evolution", 
+    "citations": 1
+},{
+    "article": "Supporting End-User Service Composition with Automatically Generated Composite Service Descriptions", 
+    "citations": 0
+},{
+    "article": "An Efficient Multiple Trust Paths Finding Algorithm for Trustworthy Service Provider Selection in Real-Time Online Social Network Environments", 
+    "citations": 1
+},{
+    "article": "Dynamic Service Composition with Service-Dependent QoS Attributes", 
+    "citations": 14
+},{
+    "article": "Change-centric Model for Web Service Evolution", 
+    "citations": 2
+},{
+    "article": "SLA-Aware Tenant Placement and Dynamic Resource Provision in SaaS", 
+    "citations": 0
+},{
+    "article": "A Diffusion Model with Constant Source and Sinks for Social Graph Partitioning", 
+    "citations": 0
+},{
+    "article": "Constraints Based Web Service Semantic Augmentation", 
+    "citations": 0
+},{
+    "article": "A Framework for Semantic Description of RESTful Web APIs", 
+    "citations": 1
+},{
+    "article": "Recommending a Credible Web Service", 
+    "citations": 0
+},{
+    "article": "A Parallel Approach for Service Composition with Complex Structures in Pervasive Environments", 
+    "citations": 1
+},{
+    "article": "Collaborative Web Service QoS Prediction on Unbalanced Data Distribution", 
+    "citations": 2
+},{
+    "article": "Set-Based Bi-level Optimisation for QoS-Aware Service Composition in Ubiquitous Environments", 
+    "citations": 1
+},{
+    "article": "Towards Heuristic Optimization of Complex Service-Based Workflows for Stochastic QoS Attributes", 
+    "citations": 2
+},{
+    "article": "PEESOS: A Web Tool for Planning and Execution of Experiments in Service Oriented Systems", 
+    "citations": 2
+},{
+    "article": "A Formal Approach for Verifying QoS Variability in Web Services Composition Using EVENT-B", 
+    "citations": 0
+},{
+    "article": "A Study Case of Restful Frameworks in Raspberry Pi: A Performance and Energy Overview", 
+    "citations": 4
+},{
+    "article": "Mashup Service Recommendation Based on User Interest and Social Network", 
+    "citations": 23
+},{
+    "article": "Stabilising Performance in Cloud Services Composition Using Portfolio Theory", 
+    "citations": 0
+},{
+    "article": "Architecturing Dynamic Data Race Detection as a Cloud-Based Service", 
+    "citations": 0
+},{
+    "article": "Application Configuration Repository for Adaptive Service-Based Systems: Overcoming Challenges in an Evolutionary Online Advertising Environment", 
+    "citations": 1
+},{
+    "article": "A Graph-Based Data Model for API Ecosystem Insights", 
+    "citations": 5
+},{
+    "article": "Frequent Pattern Mining Using Semantic FP-Growth for Effective Web Service Ranking", 
+    "citations": 3
+},{
+    "article": "Domain-Aware Service Recommendation for Service Composition", 
+    "citations": 2
+},{
+    "article": "Heuristic Recovery of Missing Events in Process Logs", 
+    "citations": 0
+},{
+    "article": "MagEl: A Magneto-Electric Effect-Inspired Approach for Web Service Composition", 
+    "citations": 0
+},{
+    "article": "Clustering Service Networks with Entity, Attribute, and Link Heterogeneity", 
+    "citations": 1
+},{
+    "article": "Linked USDL Agreement: Effectively Sharing Semantic Service Level Agreements on the Web", 
+    "citations": 2
+},{
+    "article": "Predicting Dynamic Requests Behavior in Long-Term IaaS Service Composition", 
+    "citations": 2
+},{
+    "article": "Impacts of Pheromone Modification Strategies in Ant Colony for Data-Intensive Service Provision", 
+    "citations": 3
+},{
+    "article": "Web Services and Performance: For eBay Item Visibility Framework", 
+    "citations": 0
+},{
+    "article": "A Novel Approach for API Recommendation in Mashup Development", 
+    "citations": 3
+},{
+    "article": "Wire-Speed Differential SOAP Encoding", 
+    "citations": 0
+},{
+    "article": "Inferring Data Contract for Web-Based API", 
+    "citations": 1
+},{
+    "article": "Context-Aware Filtering and Visualization of Web Service Clusters", 
+    "citations": 2
+},{
+    "article": "Selecting Top-k Composite Web Services Using Preference-Aware Dominance Relationship", 
+    "citations": 6
+},{
+    "article": "Towards Effectively Identifying RESTful Web Services", 
+    "citations": 0
+},{
+    "article": "Service Recommendation for Mashup Creation Based on Time-Aware Collaborative Domain Regression", 
+    "citations": 0
+},{
+    "article": "Trace Norm Regularized Matrix Factorization for Service Recommendation", 
+    "citations": 27
+},{
+    "article": "Data Mining from NoSQL Document-Append Style Storages", 
+    "citations": 1
+},{
+    "article": "A Model-Driven Approach for REST Compliant Services", 
+    "citations": 8
+},{
+    "article": "WSWalker: A Random Walk Method for QoS-Aware Web Service Recommendation", 
+    "citations": 0
+},{
+    "article": "S-ABC - A Service-Oriented Artificial Bee Colony Algorithm for Global Optimal Services Selection in Concurrent Requests Environment", 
+    "citations": 2
+},{
+    "article": "Toward a Real-Time Service for Landslide Detection: Augmented Explicit Semantic Analysis and Clustering Composition Approaches", 
+    "citations": 0
+},{
+    "article": "Ranking Services by Service Network Structure and Service Attributes", 
+    "citations": 23
+},{
+    "article": "Revenue Optimization of Service Compositions Using Conditional Request Retries", 
+    "citations": 2
+},{
+    "article": "Personal Preference and Trade-Off Based Additive Manufacturing Web Service Selection", 
+    "citations": 0
+},{
+    "article": "SLIM: A Scalable Location-Sensitive Information Monitoring Service", 
+    "citations": 1
+},{
+    "article": "Correlation-Supported Composite Service Reselection", 
+    "citations": 0
+},{
+    "article": "A Novel Online Reliability Prediction Approach for Service-Oriented Systems", 
+    "citations": 0
+},{
+    "article": "BiNet: Trust Sub-network Extraction Using Binary Ant Colony Algorithm in Contextual Social Networks", 
+    "citations": 2
+},{
+    "article": "A Web Service for Scholarly Big Data Information Extraction", 
+    "citations": 5
+},{
+    "article": "Learning Efficient Compositions for QoS-Aware Service Provisioning", 
+    "citations": 4
+},{
+    "article": "A Non-intrusive Solution to Guarantee Runtime Behavior of Open SCADA Systems", 
+    "citations": 0
+},{
+    "article": "Property-Based Testing of JSON Based Web Services", 
+    "citations": 3
+},{
+    "article": "A Hybrid Local-Global Optimization Strategy for QoS-Aware Service Composition", 
+    "citations": 1
+},{
+    "article": "Privacy-Aware Web Service Composition and Ranking", 
+    "citations": 18
+},{
+    "article": "Energy Efficient Dynamic Service Selection for Large-Scale Web Service Systems", 
+    "citations": 3
+},{
+    "article": "Geographic Location-Based Network-Aware QoS Prediction for Service Composition", 
+    "citations": 9
+},{
+    "article": "An Intelligent Admission Control Framework for Composite Services", 
+    "citations": 0
+},{
+    "article": "A Study of Caching Strategies for Web Service Discovery", 
+    "citations": 0
+},{
+    "article": "Event-Based Multi-level Service Monitoring", 
+    "citations": 20
+},{
+    "article": "A Service-Based Framework for Mobile Social Messaging in PaaS Systems", 
+    "citations": 0
+},{
+    "article": "Cutting Your Cloud Computing Cost for Deadline-Constrained Batch Jobs", 
+    "citations": 3
+},{
+    "article": "Partial Selection: An Efficient Approach for QoS-Aware Web Service Composition", 
+    "citations": 9
+},{
+    "article": "Automatic Propagation of User Inputs in Service Composition for End-Users", 
+    "citations": 5
+},{
+    "article": "Spatio-temporal Composition of Sensor Cloud Services", 
+    "citations": 2
+},{
+    "article": "Flexible Execution of Adaptable Composed Services", 
+    "citations": 0
+},{
+    "article": "Web Service Recommendation Based on Time Series Forecasting and Collaborative Filtering", 
+    "citations": 0
+},{
+    "article": "Virtual Location-Based Services: Merging the Physical and Virtual World", 
+    "citations": 5
+},{
+    "article": "Service Recommendation for Mashup Composition with Implicit Correlation Regularization", 
+    "citations": 0
+},{
+    "article": "A Novel Lifecycle Framework for Semantic Web Service Annotation Assessment and Optimization", 
+    "citations": 0
+},{
+    "article": "An XML Based Monadic Framework for REST Service Compositions", 
+    "citations": 3
+},{
+    "article": "A Privacy-Preserving Framework for Constrained Choreographed Service Composition", 
+    "citations": 2
+},{
+    "article": "Context-Aware Cloud Service Selection Based on Comparison and Aggregation of User Subjective Assessment and Objective Performance Assessment", 
+    "citations": 6
+},{
+    "article": "K-Anonymity Based Approach for Privacy-Preserving Web Service Selection", 
+    "citations": 1
+},{
+    "article": "Unraveling and Learning Workflow Models from Interleaved Event Logs", 
+    "citations": 2
+},{}]}
