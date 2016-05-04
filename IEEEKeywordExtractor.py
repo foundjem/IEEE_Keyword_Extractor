@@ -16,7 +16,7 @@ class Helper:
         for hit in json_file["result"]["hits"]["hit"]:
             if hit["info"]["type"] == "proceedings":
                 continue
-            article = hit["info"]["title"]["text"]
+            article = hit["info"]["title"] #["text"]
             article = article.replace(". ", "")
             article = article .encode('ascii','ignore')
             articles.append(article)
