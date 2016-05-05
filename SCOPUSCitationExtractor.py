@@ -90,7 +90,11 @@ for article in articles:
     url = SCOPUS_SEARCH_URL + urllib.quote("title(\"%s\")" % article)
     r = requests.get(url)
     result = r.json()
-    print(result)
+    for entry in result['search-results']['entry']:
+        if entry['dc:title'] == article:
+            print "Article %s has %s citations" % (article, entry['citedby-count'])
+        else:
+            print "Not the same article - looking for %s, but found %s" % (article, entry['dc:title'])
 
     # scopus.
     #
