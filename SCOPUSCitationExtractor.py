@@ -87,7 +87,7 @@ for article in articles:
         print "Skipping %s" % article
         continue
 
-    url = SCOPUS_SEARCH_URL + urllib.quote("title(\"%s\")" % article)
+    url = SCOPUS_SEARCH_URL + urllib.quote("title(%s)" % article)
     r = requests.get(url)
     result = r.json()
     for entry in result['search-results']['entry']:

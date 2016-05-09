@@ -1,0 +1,10 @@
+- How Does Web Service API Evolution Affect Clients?
+--> remove '?'
+
+- A Trust Evaluation Method for Cloud Service with Fluctuant QoS and Flexible SLA
+--> move search to " url = SCOPUS_SEARCH_URL + urllib.quote("all(\"%s\")" % article) "
+
+- A Web Service Selection Framework Based on User&apos;s Context and QoS
+--> replace "&apos;" with "\'"
+
+... for the rest - poll and add manually?
