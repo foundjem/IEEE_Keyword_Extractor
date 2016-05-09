@@ -13,7 +13,10 @@ class Helper:
         for hit in json_file["result"]["hits"]["hit"]:
             if hit["info"]["type"] == "proceedings":
                 continue
-            article = hit["info"]["title"]["text"]
+            if 'title' in hit["info"] and type(hit["info"]["title"]) is dict:
+                article = hit["info"]["title"]["text"]
+            else:
+                article = hit["info"]["title"]
             article = article.replace(". ", "")
             article = article .encode('ascii','ignore')
             articles.append(article)
@@ -43,6 +46,10 @@ class Helper:
             results[the_result.article.encode('ascii','ignore')] = the_result
         return results
 
+    @staticmethod
+    def simplify_string(string):
+        return ''.join(e for e in string if e.isalnum()).lower()
+
 class Citation:
 
     def __init__(self, article, citations):
@@ -59,11 +66,11 @@ class Citation:
 # if not len(sys.argv) == 3:
 #     print "Usage: ./SCOPUSCitationExtractor.py <SOURCE_JSON> <TARGET_JSON>"
 #     sys.exit(1)
-#
+
 # source_file = sys.argv[1]
 # target_file = sys.argv[2]
 source_file = '/Users/philipp/Dropbox/paperService/icws.json'
-target_file = 'test.json'
+target_file = '/Users/philipp/Dropbox/paperService/icws_scopuscits.json'
 
 # load the article titles from the ICWS JSON in the Dropbox folder
 articles = Helper.load_article_names_from_json(source_file)
@@ -87,25 +94,33 @@ for article in articles:
         print "Skipping %s" % article
         continue
 
-    url = SCOPUS_SEARCH_URL + urllib.quote("title(%s)" % article)
+    cleaned_article = article.replace("?","")
+    cleaned_article = cleaned_article.replace("&apos;","\'")
+
+    url = SCOPUS_SEARCH_URL + urllib.quote("title(\"%s\")" % cleaned_article)
     r = requests.get(url)
     result = r.json()
-    for entry in result['search-results']['entry']:
-        if entry['dc:title'] == article:
-            print "Article %s has %s citations" % (article, entry['citedby-count'])
-        else:
-            print "Not the same article - looking for %s, but found %s" % (article, entry['dc:title'])
 
-    # scopus.
-    #
-    # query.set_phrase(article)
-    # querier.send_query(query)
-    # if len(querier.articles) == 0:
-    #     print "Could not find article %s" % article
-    #     continue
-    # elif len(querier.articles) > 1:
-    #     print "Found multiple articles for %s, using %s" % (article, querier.articles[0]['title'])
-    # print "(%d/%d) %s: %s" % (cur_article, total_articles, article, querier.articles[0]["num_citations"])
-    # citation = Citation(article, querier.articles[0]["num_citations"])
-    # citations[article] = citation
-    # Helper.save_results_to_json(target_file, citations)
+    cit = "-1"
+
+    if not 'service-error' in result:
+        for entry in result['search-results']['entry']:
+            if 'error' in entry:
+                print "Error returned: %s" % str(entry['error'])
+                break
+            elif Helper.simplify_string(entry['dc:title']) == Helper.simplify_string(article):
+                cit = entry['citedby-count']
+                print "Article %s has %s citations" % (article, cit)
+                break
+            else:
+                print "Skipping non-match %s" % (entry['dc:title'])
+    else:
+        print "Major Service Error"
+
+    if cit == "-1":
+        print "Did not find match for article %s" % (article)
+        cit = raw_input("Enter: ")
+
+    citation = Citation(article, cit)
+    citations[article] = citation
+    Helper.save_results_to_json(target_file, citations)
